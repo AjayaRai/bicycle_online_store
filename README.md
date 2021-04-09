@@ -10,8 +10,7 @@ Furthermore, the admin can also add, edit or delete (CRUD) other admins:
 
 ## Steps to run the program
 1. Download the WAMP server on you local machine from [here](https://sourceforge.net/projects/wampserver/), and install it, then click on the icon to run it
-2. Open the directory folder by clicking on the <b>www directory</b>, as shown on the image below:
-<img src="https://github.com/AjayaRai/bicycle_online_store/blob/main/images/mySql_console.png" alt="drawing" width="400"/>
+2. Open the directory folder by clicking on the <b>www directory</b>, as shown on the image below:<br><img src="https://github.com/AjayaRai/bicycle_online_store/blob/main/images/mySql_console.png" alt="drawing" width="400"/>
 3. On the folder, git clone this repo
 4. Then from the image shown above, click on the <b>MySQL console</b>
 5. On the MySQL console, type <b>GRANT ALL PRIVILEGES ON chain_gang.*TO 'webuser'@'localhost' IDENTIFIED BY '123456';</b>
