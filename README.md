@@ -14,3 +14,8 @@ This project is an online bike store that has two main parts, which includes:
 7. Then, type <b>USE chain_gang;</b>
 8. Copy the [chain_gang.sql](https://github.com/AjayaRai/bicycle_online_store/blob/main/chain_gang/chain_gang.sql) content, and paste it into the console
 9. Finally, click [here](http://localhost/bicycle_online_store/chain_gang/public/) to see the client page OR click [here](http://localhost/bicycle_online_store/chain_gang/public/staff/) to view the admin page where you have to login as <b>userName: raiaj123</b>, <b>password: Password£1234</b>
+
+
+### Acknowledgements
+This project has been created with the help of the tutorial "PHP: Object-Oriented Programming with Databases" from LinkedIn Learning, which was completed in Aug 2020.
+Although the code here is very similar to the tutorial, all the concepts are well understood. And you can see the completion certificate on my [LinkedIn account](https://www.linkedin.com/in/ajaya-rai/). 
